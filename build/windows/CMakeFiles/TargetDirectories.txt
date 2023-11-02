@@ -1,0 +1,10 @@
+D:/app/flutter/i_gram/build/windows/CMakeFiles/INSTALL.dir
+D:/app/flutter/i_gram/build/windows/CMakeFiles/ALL_BUILD.dir
+D:/app/flutter/i_gram/build/windows/CMakeFiles/ZERO_CHECK.dir
+D:/app/flutter/i_gram/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/app/flutter/i_gram/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/app/flutter/i_gram/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+D:/app/flutter/i_gram/build/windows/flutter/CMakeFiles/INSTALL.dir
+D:/app/flutter/i_gram/build/windows/runner/CMakeFiles/i_gram.dir
+D:/app/flutter/i_gram/build/windows/runner/CMakeFiles/INSTALL.dir
+D:/app/flutter/i_gram/build/windows/runner/CMakeFiles/ALL_BUILD.dir

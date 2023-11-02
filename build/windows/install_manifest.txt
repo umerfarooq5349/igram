@@ -1,0 +1,14 @@
+D:/app/flutter/i_gram/build/windows/runner/Debug/data/icudtl.dat
+D:/app/flutter/i_gram/build/windows/runner/Debug/flutter_windows.dll
+D:/app/flutter/i_gram/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/app/flutter/i_gram/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/app/flutter/i_gram/build/windows/runner/Debug/data/flutter_assets/fonts/InstagramSansHeadline-Regular.ttf
+D:/app/flutter/i_gram/build/windows/runner/Debug/data/flutter_assets/fonts/InstagramSansScript-Regular.ttf
+D:/app/flutter/i_gram/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/app/flutter/i_gram/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/app/flutter/i_gram/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/app/flutter/i_gram/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/app/flutter/i_gram/build/windows/runner/Debug/data/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf
+D:/app/flutter/i_gram/build/windows/runner/Debug/data/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf
+D:/app/flutter/i_gram/build/windows/runner/Debug/data/flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf
+D:/app/flutter/i_gram/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
